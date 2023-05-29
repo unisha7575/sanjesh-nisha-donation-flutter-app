@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707195877058",
+    "project_id": "nisha-sanjesh-donation",
+    "storage_bucket": "nisha-sanjesh-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707195877058:android:ec3f1734e83c9594df2d5b",
+        "android_client_info": {
+          "package_name": "com.example.donation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707195877058-td24el3b89u6j8uvm6t97poudju1r4tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donation_app",
+            "certificate_hash": "ac0aaa15aed51fb46f6729910c33578dc2825b28"
+          }
+        },
+        {
+          "client_id": "707195877058-uhcasoim3jhd1m6si0vg41kplkpa9tu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPA8CiLrVgVk9z9FCdpjtZ31O-x3PSpac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707195877058-uhcasoim3jhd1m6si0vg41kplkpa9tu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
